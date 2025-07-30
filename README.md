@@ -1,73 +1,53 @@
-<div align="center" width="100%">
+<div align="center" width="50">
 
-<img src="https://github.com/SP-XD/SP-XD/blob/main/images/hellocoders_rounded.gif?raw=true" alt="Hello Coders" width="60%"/>  
-<img src="https://github.com/SP-XD/SP-XD/blob/main/images/dev-working_rounded.gif?raw=true" alt="Workspace" width="40%"/>  
-
-### 👋 مرحباً! أنا **محمد علي الدهبلي**
-طالب ومهتم بتطوير الويب 🌐 وأتعلم حاليًا لغة C# 💻  
-أهدف إلى أن أصبح مطور محترف بإذن الله 💪
-
----
+<img src="https://github.com/SP-XD/SP-XD/blob/main/images/hellocoders_rounded.gif?raw=true" alt="Hello Coders" width="60%"/> <br>
+<img src="https://github.com/SP-XD/SP-XD/blob/main/images/dev-working_rounded.gif?raw=true" alt="Workspace" width="40%"/><br> 
 
 <details>
-  <summary><strong>🎧 حالياً أبرمج وأسمع:</strong></summary>
-  <br>
-  [![Spotify](https://spotify-readme.sp-xd.vercel.app/api/spotify)](https://open.spotify.com/)
+<p><strong><summary> 🎧 Busy coding & vibing to: </summary></strong></p>
+
+[![Spotify](https://spotify-readme.sp-xd.vercel.app/api/spotify)](https://open.spotify.com/) <br>
+
 </details>
 
-![Profile Views](https://komarev.com/ghpvc/?username=MohammedAliAldahbali&style=flat&color=orange&label=PROFILE+VIEWS)
+![Total Views](https://komarev.com/ghpvc/?username=MohammedAliAldahbali&style=flat&color=orange&label=PROFILE+VIEWS)
 ![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FMohammedAliAldahbali&count_bg=%2379C83D&title_bg=%23555555&icon=github.svg&icon_color=%23E7E7E7&title=HITS&edge_flat=false)
-[![Telegram](https://img.shields.io/badge/Telegram-Contact-grey?style=flat&logo=telegram)](https://t.me/your_username)
+[![Telegram badge](https://img.shields.io/badge/Telegram-Contact-grey?style=flat&logo=telegram)](https://t.me/yourusername)
 
 </div>
 
 ---
 
-### 🛠️ الأدوات والتقنيات التي أستخدمها:
+### 💻 أنا مطور ويب شامل (Full Stack Web Developer)
+- 🔹 أعمل على الواجهة الأمامية باستخدام HTML, CSS, JavaScript, Bootstrap
+- 🔹 وأطوّر الخلفية باستخدام PHP و SQL
+- ⚙️ عندي خبرة بسيطة بـ jQuery، AJAX، و JSON
+- 🎓 حالياً طالب وأطور نفسي خطوة بخطوة
+
+---
+
+### 🛠️ أدوات وتقنيات أستخدمها:
 
 ![HTML](https://img.shields.io/badge/HTML-E34F26?style=flat&logo=html5&logoColor=white)
 ![CSS](https://img.shields.io/badge/CSS-1572B6?style=flat&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
-![C#](https://img.shields.io/badge/C%23-239120?style=flat&logo=c-sharp&logoColor=white)
-![Git](https://img.shields.io/badge/GIT-E44C30?style=flat&logo=git&logoColor=white)
-![Visual Studio Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat&logo=visual-studio-code&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat&logo=php&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat&logo=mysql&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=flat&logo=bootstrap&logoColor=white)
+![JSON](https://img.shields.io/badge/JSON-5E5C5C?style=flat&logo=json&logoColor=white)
+![Git](https://img.shields.io/badge/Git-E44C30?style=flat&logo=git&logoColor=white)
+![VSCode](https://img.shields.io/badge/VS_Code-007ACC?style=flat&logo=visual-studio-code&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)
 
----
+```dart
+// tools_I_use organized
 
-### 📚 حالياً أتعلم:
-
-- 🌟 **C#** لتطوير تطبيقات سطح المكتب والمواقع
-- 🌐 أساسيات **Front-End** (HTML, CSS, JavaScript)
-
----
-
-### 🗂️ بعض الإحصائيات:
-
-<div align="center">
-
-<img src="https://raw.githubusercontent.com/SP-XD/profile-summary-cards/master/profile-summary-card-output/nord_dark/3-stats.svg" width="32.5%">
-<img src="https://raw.githubusercontent.com/SP-XD/profile-summary-cards/master/profile-summary-card-output/nord_dark/1-repos-per-language.svg" width="32.5%">
-<img src="https://raw.githubusercontent.com/SP-XD/profile-summary-cards/master/profile-summary-card-output/nord_dark/2-most-commit-language.svg" width="32.5%">
-
-<details>
-  <summary>📊 عرض المزيد</summary>
-  <img src="https://raw.githubusercontent.com/SP-XD/profile-summary-cards/master/profile-summary-card-output/nord_dark/0-profile-details.svg">
-</details>
-
-</div>
-
----
-
-### 🤔 أشياء أحبها:
-
-- 🐧 استخدام نظام **Linux**
-- 🎮 ألعاب الفيديو
-- 🎬 مشاهدة الأفلام
-- 🛠️ بناء المشاريع البسيطة والتجريبية
-
----
-
-> 💡 **نصيحة للمستقبل:** لا تنتظر حتى تتعلم كل شيء... ابدا الآن واصنع شيئًا بسيطًا!
-
----
-
+class About extends Me {
+  const myTools = {
+    "Frontend" : { "HTML", "CSS", "JavaScript", "Bootstrap", "jQuery", "AJAX", "JSON" },
+    "Backend" : { "PHP", "SQL" },
+    "Editors" : { "VSCode" },
+    "Platforms" : { "Windows", "Linux" },
+    "OtherTools" : { "Git" }
+  };
+}
