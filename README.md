@@ -18,19 +18,36 @@
 
 ---
 
-### 🗂️ بعض الإحصائيات:
+### 💻 أنا مطور ويب شامل (Full Stack Web Developer)
+- 🔹 أعمل على الواجهة الأمامية باستخدام HTML, CSS, JavaScript, Bootstrap
+- 🔹 وأطوّر الخلفية باستخدام PHP و SQL
+- ⚙️ عندي خبرة بسيطة بـ jQuery، AJAX، و JSON
+- 🎓 حالياً طالب وأطور نفسي خطوة بخطوة
 
-<div align="center">
+---
 
-<img src="https://raw.githubusercontent.com/MohammedAliAldahbali/profile-summary-card-output/nord_dark/3-stats.svg" width="32.5%">
-<img src="https://raw.githubusercontent.com/MohammedAliAldahbali/profile-summary-card-output/nord_dark/1-repos-per-language.svg" width="32.5%">
-<img src="https://raw.githubusercontent.com/MohammedAliAldahbali/profile-summary-card-output/nord_dark/2-most-commit-language.svg" width="32.5%">
+### 🛠️ أدوات وتقنيات أستخدمها:
 
-<details>
-  <summary>📊 عرض المزيد</summary><img src="https://raw.githubusercontent.com/MohammedAliAldahbali/MohammedAliAldahbali/profile-summary-card-output/nord_dark/3-stats.svg" width="32.5%">
-<img src="https://raw.githubusercontent.com/MohammedAliAldahbali/MohammedAliAldahbali/profile-summary-card-output/nord_dark/1-repos-per-language.svg" width="32.5%">
-<img src="https://raw.githubusercontent.com/MohammedAliAldahbali/MohammedAliAldahbali/profile-summary-card-output/nord_dark/2-most-commit-language.svg" width="32.5%">
+![HTML](https://img.shields.io/badge/HTML-E34F26?style=flat&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS-1572B6?style=flat&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat&logo=php&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat&logo=mysql&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=flat&logo=bootstrap&logoColor=white)
+![JSON](https://img.shields.io/badge/JSON-5E5C5C?style=flat&logo=json&logoColor=white)
+![Git](https://img.shields.io/badge/Git-E44C30?style=flat&logo=git&logoColor=white)
+![VSCode](https://img.shields.io/badge/VS_Code-007ACC?style=flat&logo=visual-studio-code&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)
 
-</details>
+```dart
+// tools_I_use organized
 
-</div>
+class About extends Me {
+  const myTools = {
+    "Frontend" : { "HTML", "CSS", "JavaScript", "Bootstrap", "jQuery", "AJAX", "JSON" },
+    "Backend" : { "PHP", "SQL" },
+    "Editors" : { "VSCode" },
+    "Platforms" : { "Windows", "Linux" },
+    "OtherTools" : { "Git" }
+  };
+}
